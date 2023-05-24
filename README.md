@@ -1,2 +1,2 @@
 # ExtendWin
-A Windows Extender, forged from decompilation and a fiery hatred for linkers
+A Windows Extender, forged from a fiery hatred for linkers
